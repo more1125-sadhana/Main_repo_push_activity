@@ -1,1 +1,2 @@
-home
+home  is a local repo message save 
+new changes is available
